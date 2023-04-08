@@ -122,3 +122,20 @@
 
     /**********************************/ 
 }
+
+@media (max-width:1235px) {
+
+
+    /*Seccion de imagen y texto fresh*/
+
+    .father-all .container-text-fresh {
+        padding: 15px 43px 40px 43px;
+    }
+
+    .father-all .title-fresh {
+        font-size: 40px;
+        line-height: 48px;
+        margin-bottom: 18px;
+    }
+    /**********************************/
+}
