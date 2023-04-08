@@ -141,14 +141,14 @@
 .father-all .hero {
     display: flex;
     justify-content: space-between;
-    background-image: url(ihttps://cdn.shopify.com/s/files/1/0740/4139/3426/files/image_4.png?v=1680975287);
+    background-image: url(https://cdn.shopify.com/s/files/1/0740/4139/3426/files/red_halo_1.png?v=1680975287);
     background-repeat: no-repeat;
     background-position: right;
     width: 100%;
 }
 
 .father-all .container-title-button {
-    background-image: url(img/image\ 4.png);
+    background-image: url(https://cdn.shopify.com/s/files/1/0740/4139/3426/files/image_4.png?v=1680975287);
     width: 60%;
     height: 772px;
     background-repeat: no-repeat;
