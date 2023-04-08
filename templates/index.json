@@ -23,7 +23,9 @@
       "type": "tadah-tasty"
     },
 
-
+    "tadah-variaty" : {
+      "type": "tadah-variaty"
+    },
 
     "image_banner": {
       "type": "image-banner",
@@ -230,6 +232,7 @@
     "tadah-ingredients",
     "tadah-fresh",
     "tadah-tasty",
+    "tadah-variaty",
     "image_banner",
     "rich_text",
     "featured_collection",
