@@ -27,6 +27,10 @@
       "type": "tadah-variaty"
     },
 
+    "tadah-chick" : {
+      "type": "tadah-chick"
+    },
+
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -233,6 +237,7 @@
     "tadah-fresh",
     "tadah-tasty",
     "tadah-variaty",
+    "tadah-chick",
     "image_banner",
     "rich_text",
     "featured_collection",

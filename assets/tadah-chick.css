@@ -1,0 +1,36 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+ /* padre de todas las seccines*/
+ 
+.father-all {
+    font-family: 'Montserrat', sans-serif;
+}
+
+ /**********************************/
+
+/*Section chick*/
+.father-all .section-chick {
+    background-image: url(img/wood_bg\ 1.png);
+    width: 100%;
+    height: 550px;
+}
+
+.father-all .section-text-img-colors {
+    display: flex;
+    width: 100%;
+}
+
+.father-all .container-img-same, .container-text-same {
+    width: 50%;
+}
+
+.father-all .img-samee{
+    width: 100%;
+}
+
+/**********************************/
