@@ -11,42 +11,6 @@
       "type": "tadah-taste"
     },
 
-    "tadah-ingredients" : {
-      "type": "tadah-ingredients"
-    },
-
-    "tadah-fresh" : {
-      "type": "tadah-fresh"
-    },
-
-    "tadah-tasty" : {
-      "type": "tadah-tasty"
-    },
-
-    "tadah-variety" : {
-      "type": "tadah-variety"
-    },
-
-    "tadah-chick" : {
-      "type": "tadah-chick"
-    },
-
-    "tadah-one-text-img" : {
-      "type": "tadah-one-text-img"
-    },
-
-    "tadah-two-text-img" : {
-      "type": "tadah-one-text-img"
-    },
-
-    "tadah-three-text-img" : {
-      "type": "tadah-one-text-img"
-    },
-
-    "tadah-falafull" : {
-      "type": "tadah-falafull"
-    },
-
 
 
     "image_banner": {
@@ -251,12 +215,6 @@
   "order": [
     "tadah-hero",
     "tadah-taste",
-    "tadah-ingredients",
-    "tadah-fresh",
-    "tadah-tasty",
-    "tadah-variety",
-    "tadah-chick",
-    "tadah-falafull",
     "image_banner",
     "rich_text",
     "featured_collection",
