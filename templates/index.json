@@ -1,9 +1,6 @@
 {
   "sections": {
 
-    "tadah-header" : {
-      "type": "tadah-header"
-    },
 
     "tadah-hero" : {
       "type": "tadah-hero"
@@ -252,7 +249,6 @@
     }
   },
   "order": [
-    "tadah-header",
     "tadah-hero",
     "tadah-taste",
     "tadah-ingredients",
