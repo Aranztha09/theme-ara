@@ -86,6 +86,10 @@
     justify-content: center;
 }
 
+.father-all .swiper-pagination{
+    margin-top: 25px;
+}
+
 /**********************************/
 
 
