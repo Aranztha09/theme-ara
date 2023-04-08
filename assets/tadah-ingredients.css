@@ -1,5 +1,19 @@
 /* seccion ingredientes y sabores*/
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+ /* padre de todas las seccines*/
+ 
+.father-all {
+    font-family: 'Montserrat', sans-serif;
+}
+
+ /**********************************/
+ 
 .father-all .container-section-ingredients {
     display: flex;
     width: 100%;
