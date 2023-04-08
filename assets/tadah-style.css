@@ -230,3 +230,888 @@
 
 /**********************************/
 
+/* seccion info taste*/
+
+ .father-all .container-info-taste {
+    padding: 67px 26px 26px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 251px;
+    justify-content: center;
+    background-color: white;
+ }
+
+ .father-all .title-taste {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 51px;
+    text-align: center;
+    color: #2E190F;
+    margin-bottom: 20px;
+ }
+
+ .father-all .info-taste {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #000000;
+    max-width: 666px;
+ }
+/**********************************/
+
+/* seccion ingredientes y sabores*/
+
+.father-all .container-section-ingredients {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.father-all .ingredients-colors{
+    width: 25%;
+    padding-bottom: 30px;
+    height: 100%;
+}
+
+.father-all .ingredients-colors img{
+    width: 100%;
+    height: 388px;
+    max-width: 335px;
+    object-fit: contain;
+}
+
+.father-all .title-flavor {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 30.23px;
+
+}
+
+.father-all .button-flavor {
+    max-width: 275px;
+    height: 50px;
+    background: #2E190F;
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.father-all .title-button-flavor {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.title-flavor, .button-flavor {
+    padding: 0  10px 0 10px;
+} 
+
+.father-all .f-yellow {
+    background: #F7D633;
+}
+
+.father-all .f-red{
+    background: #E12843;
+}
+
+.father-all .f-blue {
+    background: #72CEE8;
+}
+
+.father-all .f-orange {
+    background: #F47D34;
+}
+
+.container-img-ingredients {
+    padding: 38px 13px 24.77px 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/**********************************/
+
+
+
+/*Seccion de imagen y texto fresh*/
+
+.father-all .section-img-text-fresh{
+    width: 100%;
+    height: 569px;
+    display: flex;
+    padding-top: 53px;
+    background-color: #FFFFFF;
+}
+
+.father-all .container-img-fresh, .conatiner-title-background {
+    width: 50%;
+}
+
+.father-all .img-fresh {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.conatiner-title-background {
+    background-image: url(img/Frame.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.father-all .container-text-fresh {
+    padding: 84px 120px 0 104px;
+}
+
+.father-all .title-fresh {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 51px;
+    color: #2E190F;
+    margin-bottom: 35px;
+
+}
+
+.father-all .text-fresh {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000000;
+
+}
+
+/**********************************/
+
+/*Seccion de testimonios*/
+
+.father-all .section-testimonials {
+    background-image: url(img/chickpeas_bg\ 2.png);
+    margin-top: 74px;
+    padding-bottom: 138px;
+}
+
+.father-all .container-title-star {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 51px;
+}
+
+.father-all .container-title-star .title-tasty {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 51px;
+    text-align: center;
+    color: #2E190F;
+    margin-bottom: 10px;
+}
+
+.father-all .father-frame-tasty {
+    display: flex;
+    padding: 0 120px 25px 120px;
+}
+
+.father-all .frame-info-tasty {
+    width: 33%;
+    margin-right: 23px;
+}
+
+.father-all .tasty3 {
+    margin-right: 0;
+}
+
+.father-all .container-img-frame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.father-all .info-frame {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #2E190F;
+    margin-bottom: 8.22px;
+}
+
+.father-all .name {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #2E190F;
+}
+
+.father-all .container-navigation-points {
+    display: flex;
+    justify-content: center;
+}
+
+/**********************************/
+
+/*Section variety*/
+
+.father-all .section-img-text-variety {
+    display: flex;
+    width: 100%;
+    padding-bottom: 109px;
+}
+
+.father-all .img-variety {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.father-all .container-img-variety, .container-info-variety {
+    width: 50%;
+}
+
+.father-all .container-info-variety {
+    padding: 114px 124px 27px 57px;
+}
+
+.father-all .title-variety {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 51px;
+    text-align: center;
+    color: #2E190F;
+    display: flex;
+    margin-bottom: 16px;
+}
+
+
+
+.father-all .info-variety {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000000;
+    margin-bottom: 27px;
+}
+
+.father-all .button-variety {
+    width: 275px;
+    height: 50px;
+    background: #F7D633;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.father-all .text-buttonV {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2E190F;
+}
+
+.father-all .container-img-variety {
+    padding-top: 69px;
+}
+/**********************************/
+
+/*Section chick*/
+.father-all .section-chick {
+    background-image: url(img/wood_bg\ 1.png);
+    width: 100%;
+    height: 550px;
+}
+
+.father-all .section-text-img-colors {
+    display: flex;
+    width: 100%;
+}
+
+.father-all .container-img-same, .container-text-same {
+    width: 50%;
+}
+
+.father-all .img-samee{
+    width: 100%;
+}
+
+/**********************************/
+
+
+
+@media (max-width:1235px) {
+
+    /* Header y hero*/
+
+    .container-img1-img2 {
+        margin-top: 0px;
+    }
+    
+
+   .father-all .container-title {
+    padding: 156px 0 0 60px ;
+}
+
+
+    .father-all .img2 {
+        width: 368px;
+    }
+    
+    .father-all .container-button {
+        margin: 30px 0 0 60px;
+    }
+    
+    /**********************************/
+
+    /* seccion ingredientes colores*/
+
+    .father-all .button-flavor {
+        max-width: 200px;
+    }
+
+    .father-all .title-flavor {
+        font-size: 20px;
+    }
+    /**********************************/
+
+    /*Seccion de imagen y texto fresh*/
+
+    .father-all .container-text-fresh {
+        padding: 15px 43px 40px 43px;
+    }
+
+    .father-all .title-fresh {
+        font-size: 40px;
+        line-height: 48px;
+        margin-bottom: 18px;
+    }
+    /**********************************/
+
+     /*Seccion de testimonios*/
+
+    .father-all .father-frame-tasty {
+        padding: 0px 20px 25px 20px;
+    }
+
+    .father-all .info-frame {
+        font-size: 15px;
+    }
+
+    /**********************************/
+}
+
+@media (max-width:1042px) {
+
+    /* Header y hero*/
+
+    .father-all .father-header {
+        padding: 32.45px 40px 30px 40px;
+    }
+
+    .father-all .item .item-a{
+        margin-left: 20px;
+    }
+
+    .father-all .container-car {
+        margin-left: 30px;
+    }
+
+    /***********************/
+
+    /* seccion ingredientes y sabores*/
+
+     .father-all .ingredients-colors {
+        width: 50%;
+        padding-bottom: 30px;
+    }
+    /**********************************/
+
+}
+
+@media (max-width:954px) {
+
+    /* Header y hero*/
+
+
+    .container-img1-img2 {
+        width: inherit;
+    }
+    .container-button-mobile{
+        display: flex;
+        margin: 0;
+    }
+
+    .father-button-mobile {
+        padding-bottom: 44px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 42px;
+    }
+
+    .father-all .hero {
+        display: block;
+    }
+
+    .father-all .container-title-button {
+        width: 100%;
+        height: 576px;
+    }
+
+    .father-all .container-img1 {
+        max-width: 100%;
+        margin-top: 0;
+    }
+
+    .father-all .img1C {
+        display: flex;
+        width: 100%;
+        justify-content: end;
+    }
+
+    .father-all .container-img1 {
+        max-width: 550px;
+    }
+
+    .father-all .img2 {
+        position: initial;
+    }
+
+    .container-img1-img2 {
+        position: relative;
+        bottom: 123px;
+        height: 500px;
+    }
+
+    .father-all .container-img2 {
+        bottom: 131px;
+    }
+
+    .father-all .container-button {
+        display: none;
+     }
+
+     /**********************************/
+
+     /*Section variety*/
+
+     .father-all .container-info-variety {
+        padding: 89px 30px 27px 30px;
+    }
+
+    .father-all .section-img-text-variety {
+        padding-bottom: 72px;
+    }
+    /**********************************/
+
+    }
+    
+
+
+@media (max-width:768px) {
+
+    /* Header y hero*/
+    .father-all .father-header {
+        padding: 32.45px 40px 30px 40px;
+    }
+
+    .father-all .menu{
+       display: none;
+    }
+
+    .father-all .container-car {
+        margin-left: 0px;
+        margin-right: 12px;
+    }
+
+    .father-all .line-verical {
+        display: flex;
+        margin-right: 12px;
+    }
+
+    .father-all .container-burger {
+        display: block;
+    }
+
+    .father-all .menu-mobile {
+        padding: 30px;
+    }
+
+    .father-all .show-menu {
+        display: flex;
+    }
+
+    .father-all .menu-mobile .item{
+        margin-bottom: 37px;
+    }
+
+    .father-all .hero {
+        background-image: none;
+    }
+     /**********************************/
+
+     /*Seccion de imagen y texto fresh*/
+
+     .father-all .title-fresh {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .conatiner-title-background {
+        background-image: none;
+    }
+     /**********************************/
+    
+}
+
+@media (max-width:649px) {
+
+    /* Header y hero*/
+
+    .father-all .hero {
+        background-image: url(img/image\ 4.png);
+    }
+
+    
+    .father-all .container-title-button .title-hero {
+        font-size: 42px;
+        line-height: 73px;
+    }
+
+    .father-all .container-img1 {
+        max-width: 354px;
+    }
+
+    .father-all .container-img2 {
+        bottom: 82px;
+    }
+
+    .father-all .container-title {
+        padding: 113px 20px 0px 22px;
+    }
+
+    .father-all .container-title-button {
+        height: 477px;
+        background-image: none;
+    }
+
+    .container-img1-img2 {
+        height: 326px;
+    }
+
+    /**********************************/
+
+    .father-all .title-taste {
+        line-height: 36.57px;
+        font-size: 30px;
+     }
+
+     .father-all .container-info-taste {
+        padding: 46px 26px 54px 30px;
+    }
+
+     /**********************************/
+
+     /* seccion ingredientes y sabores*/
+
+     .father-all .container-section-ingredients {
+        min-height: 430px;
+    }
+
+    .father-all .ingredients-colors img {
+        height: 229px;
+        max-width: 200px;
+    }
+
+    .container-img-ingredients {
+        padding: 23px 15.14px 18px 17.12;
+    }
+
+    .father-all .title-flavor {
+        line-height: 25px;
+    }
+
+    .father-all .title-flavor {
+        margin-bottom: 18px;
+    }
+
+    .father-all .button-flavor {
+        max-width: 162.48px;
+        height: 59.44px;
+    }
+
+    .father-all .title-flavor {
+        font-size: 16px;
+    }
+
+    /**********************************/
+
+    /*Seccion de imagen y texto fresh*/
+
+    .father-all .section-img-text-fresh {
+        display: block;
+    }
+
+    .father-all .container-img-fresh, .conatiner-title-background {
+        width: 100%;
+    }
+
+    .father-all .section-img-text-fresh {
+        height: inherit;
+        padding-top: 48px;
+    }
+
+    .father-all .container-img-fresh {
+        height: 427px;
+    }
+
+    .father-all .container-text-fresh {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .father-all .title-fresh, .text-fresh {
+        text-align: center;
+    }
+
+    .father-all .container-text-fresh {
+        padding: 49px 24px 19.5px 24px;
+    }
+
+    .father-all .title-fresh {
+        line-height: 36.57px;
+    }
+
+    /**********************************/
+
+    /*Seccion de testimonios*/
+
+    .father-all .tasty3, .tasty1 {
+        display: none;
+    }
+
+    .father-all .tasty2{
+        width: 100%;
+    }
+
+    .father-all .father-frame-tasty {
+        padding: 0px 38px 23.22px 38px;
+    }
+
+    .father-all .container-title-star .title-tasty {
+        font-size: 30px;
+        line-height: 37px;
+        margin-bottom: 7px;
+    }
+
+    .father-all .container-title-star {
+        margin-bottom: 35px;
+    }
+
+    .father-all .info-frame {
+        font-size: 16px;
+        margin-bottom: 10.89px;
+    }
+
+    .father-all .section-testimonials {
+        margin-top: 19.5px;
+        padding-bottom: 12px;
+    }
+
+     /**********************************/
+
+     /*Section variety*/
+
+     .father-all .section-img-text-variety {
+        display: block;
+    }
+
+    .father-all .img-variety {
+        height: inherit;
+    }
+
+    .father-all .container-img-variety, .container-info-variety {
+        width: 100%;
+    }
+
+    .father-all .title-variety {
+        display: block; 
+    }
+
+    .father-all .container-info-variety {
+        padding: 89px 30px 27px 30px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+     /**********************************/
+}
+
+
+@media (max-width:499px) {
+
+    /* Header y hero*/
+
+    .father-all .container-title-button {
+        height: 423px;
+    }
+
+    .father-all .container-title-button .title-hero {
+        line-height: 51.2px;
+    }
+    .father-all .container-logo {
+        max-width: 101px;
+    }
+
+    .father-all .father-header {
+        padding: 21px 23px 25.06px 23px;
+    }
+
+    .father-all .father-line-colors .line-colors {
+        height:5px;
+    }
+
+    .container-img1-img2 {
+        bottom: 97px;
+    }
+    /**********************************/
+
+
+
+}
+
+@media (max-width:428px) {
+
+    /* seccion ingredientes y sabores*/
+
+
+    .father-all .title-flavor {
+        font-size: 20px;
+    }
+
+    .father-all .ingredients-colors {
+        width: 50%;
+        padding-bottom: 36px;
+    }
+
+    /**********************************/
+
+    /*Section variety*/
+
+    .father-all .container-img-variety {
+        padding-top: 70px;
+    }
+
+    .father-all .container-info-variety {
+        padding: 30px 20px 0px 20px;
+    }
+
+    .father-all .title-variety {
+        font-size: 30px;
+        line-height: 36.57px;
+        margin-bottom: 30px;
+    }
+
+    .father-all .info-variety {
+        margin-bottom: 37px;
+    }
+
+    /**********************************/
+
+}
+
+@media (max-width:400px) {
+
+    /* Header y hero*/
+
+    .father-all .container-title-button .title-hero {
+        font-size: 35px;
+    }
+
+    .father-all .container-img1 {
+        max-width: 285px;
+    }
+
+    .father-all .container-img2{
+        bottom: 65px;
+    }
+
+    .father-all .img2 {
+        width: 291px;
+    }
+
+    .father-button-mobile {
+        padding: 0 20px 44px 20px;
+    }
+
+    .father-all .info-taste {
+        font-size: 12px;
+    }
+
+    .father-all .title-taste {
+        line-height: 25px;
+        font-size: 25px;
+    }
+
+     /**********************************/
+
+     /* seccion ingredientes y sabores*/
+
+     .father-all .title-flavor {
+        font-size: 17px;
+    }
+
+    .father-all .title-button-flavor {
+        font-size: 13px;
+    }
+
+    .father-all .button-flavor {
+        max-width: 136.48px;
+        height: 49.44px;
+    }
+
+    /**********************************/
+
+    /*Seccion de testimonios*/
+
+    .father-all .section-testimonials {
+        padding-bottom: 50px;
+    }
+
+     /**********************************/
+}
