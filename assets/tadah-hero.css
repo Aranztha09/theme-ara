@@ -141,7 +141,7 @@
 .father-all .hero {
     display: flex;
     justify-content: space-between;
-    background-image: url(https://cdn.shopify.com/s/files/1/0740/4139/3426/files/image_4.png?v=1680975287);
+    background-image: url(img/red_halo\ 1\ \(1\).png);
     background-repeat: no-repeat;
     background-position: right;
     width: 100%;
@@ -227,3 +227,5 @@
     display: flex;
     justify-content: end;
 }
+
+/**********************************/
