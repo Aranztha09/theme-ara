@@ -11,6 +11,10 @@
       "type": "tadah-taste"
     },
 
+    "tadah-ingredients" : {
+      "type": "tadah-ingredients"
+    },
+
 
 
     "image_banner": {
@@ -215,6 +219,7 @@
   "order": [
     "tadah-hero",
     "tadah-taste",
+    "tadah-ingredients",
     "image_banner",
     "rich_text",
     "featured_collection",
