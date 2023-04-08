@@ -1,8 +1,8 @@
 {
   "sections": {
 
-    "hero-tadah" : {
-      "type": "hero-tadah"
+    "tadah-hero" : {
+      "type": "tadah-hero"
     },
 
     "image_banner": {
