@@ -1,4 +1,229 @@
-.item-a {
-    font-size: 100px;
-    background-color: red;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+ /* padre de todas las seccines*/
+ 
+.father-all {
+    font-family: 'Montserrat', sans-serif;
+}
+
+ /**********************************/
+
+  /* cuadros de colores*/
+
+.father-all .father-line-colors {
+    display: flex;
+    width: 100%;
+}
+
+.father-all .father-line-colors .line-colors {
+    width: 25%;
+    height:12.54px;
+}
+
+.father-all .father-line-colors .line-colors:nth-child(1) {
+    background: #F7D633;
+}
+
+.father-all .father-line-colors .line-colors:nth-child(2) {
+    background: #E12843;
+}
+
+.father-all .father-line-colors .line-colors:nth-child(3) {
+    background: #72CEE8;
+}
+
+.father-all .father-line-colors .line-colors:nth-child(4) {
+    background: #F47D34;
+}
+
+ /**********************************/
+
+  /* header*/
+
+.father-all .father-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 32.45px 123px 30px 123px;
+    background-color: white;
+}
+
+.father-all .container-logo {
+    max-width: 183.32px;
+}
+
+.father-all .container-logo .img-logo {
+    width: 100%;
+}
+
+/* menu*/
+
+.father-all .container-car-menu, .menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.father-all .item .item-a{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #2E190F;
+    margin-left: 30.05px;
+    transition: all 0.3s;
+}
+
+.father-all .item:hover .item-a{
+    color: #2e190f94;
+}
+
+.father-all .container-car {
+    margin-left: 72.36px;
+    transition: all 0.3s;
+}
+
+.father-all .container-car:hover {
+    opacity: 0.6;
+}
+
+.father-all .line-verical {
+    border: 1px solid #000000;
+    height: 26px;;
+    display: none;
+}
+
+.father-all .container-burger {
+    display: none;
+    flex-direction: column;
+}
+
+.father-all  .line-burger {
+    width: 25px;
+    height: 3px;
+    background: #2F160D;
+    border-radius: 100px;
+    margin-top: 5px;
+}
+
+.father-all  .line-burger:nth-child(1) {
+    margin: 0;
+}
+
+/**********************************/
+
+/* menu movil*/
+
+.father-all .container-menu-mobile{
+    display: none;
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+    transition: all 0.3s;
+    position: absolute;
+    z-index: 2;
+}
+
+/**********************************/
+
+
+/*Hero*/
+
+.father-all .container-hero {
+    background-color: #F7D633;
+    width: 100%;
+}
+
+.father-all .hero {
+    display: flex;
+    justify-content: space-between;
+    background-image: url(img/red_halo\ 1\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 100%;
+}
+
+.father-all .container-title-button {
+    background-image: url(img/image\ 4.png);
+    width: 60%;
+    height: 772px;
+    background-repeat: no-repeat;
+}
+
+.father-all .container-title {
+    padding: 156px 0 0 162.29px ;
+}
+.father-all .container-title-button .title-hero{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 73px;
+    color: #2E190F;
+    max-width:548.97px;
+}
+
+.father-all .container-button, .container-button-mobile {
+    height: 59px;
+    width: 284.8836364746094px;
+    border-radius: 10px;
+    background: #E12843;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0 0 162.29px;
+    cursor: pointer;
+}
+
+.father-all .container-button .title-button, .title-button-mobile {
+    color: white;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.father-all .container-img1 {
+    max-width: 641px;
+    margin-top: 56px;
+}
+
+.father-all .container-img1 .img1 {
+   width: 100%;
+}
+
+.father-all .container-img2 {
+    display: flex;
+    justify-content: end;
+    position: relative;
+}
+
+.father-all .img2 {
+    position: absolute;
+    top: -84px;
+}
+
+.container-button-mobile{
+    display: none;
+    width: 384px;
+    margin-top: 42px;
+
+}
+
+.container-img1-img2 {
+    width: 40%;
+    margin-top: 45px;
+}
+
+
+
+.img1C {
+    display: flex;
+    justify-content: end;
 }
