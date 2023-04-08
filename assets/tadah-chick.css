@@ -39,7 +39,6 @@
     font-size: 25px;
     line-height: 35px;
     text-align: center;
-    color: #FFFFFF;
     margin-bottom: 30px;
 }
 
@@ -62,8 +61,16 @@
     color: rgba(255, 255, 255, 0.345);
   }
 
+  .swiper-slide img {
+    opacity: 0.6;
+  }
+
   .swiper-slide-active {
     color: rgb(255, 255, 255);
+  }
+
+  .swiper-slide-active img {
+    opacity: 1;
   }
 
 
