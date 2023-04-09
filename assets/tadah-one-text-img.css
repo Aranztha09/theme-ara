@@ -34,6 +34,9 @@
 
 .father-all .container-img-same, .container-text-same {
     width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .father-all .img-same{
