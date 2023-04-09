@@ -15,7 +15,13 @@
     width: 33%;
 }
 
-.container-img-tortillas-left , .container-img-tortillas-rigth{
+.container-img-tortillas-left{
+    display: flex;
+    justify-content:start;
+}
+
+
+.container-img-tortillas-rigth {
     display: flex;
     justify-content: end;
 }
