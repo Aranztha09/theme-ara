@@ -1153,3 +1153,11 @@ class ProductRecommendations extends HTMLElement {
 }
 
 customElements.define('product-recommendations', ProductRecommendations);
+
+
+var burger= document.getElementById ('burger');
+var menuMobile= document.querySelector ('.container-menu-mobile');
+
+burger.addEventListener("click", function (){
+    menuMobile.classList.toggle('show-menu');
+})
