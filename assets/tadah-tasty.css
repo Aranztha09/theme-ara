@@ -111,7 +111,7 @@
     /*Seccion de testimonios*/
 
 
-    .container-testimonials {
+    .father-all .section-testimonials .container-testimonials {
         padding: 0 23px;
     }
 
