@@ -132,4 +132,13 @@
     .father-all .last-frame {
         width: 100%;
     }
+
+    .father-all .last-logo {
+        display: none;
+    }
+
+    .father-all .boy {
+        display: block;
+    }
+    
 }
