@@ -124,5 +124,11 @@
 
     .container-falafull {
         display: block;
+        justify-content: space-between;
+        align-items: center;
     }
-}
+
+    .father-tortillas, .content-falafull {
+        width: 100%;
+    }
+    }
