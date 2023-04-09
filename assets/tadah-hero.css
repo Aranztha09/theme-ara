@@ -34,6 +34,10 @@
     background: #F47D34;
 }
 
+.father-all .line-colors div {
+    visibility: hidden;
+}
+
  /**********************************/
 
   /* header*/
