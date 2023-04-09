@@ -139,10 +139,6 @@
         object-fit: cover;
     }
 
-    .father-all .section-text-img-colors .img-last-frame{
-        background-image: url(https://cdn.shopify.com/s/files/1/0740/4139/3426/files/sharktank_img_1.png?v=1681015219);
-        height: 380px;
-    }
     
 
 }
@@ -177,6 +173,12 @@
     .title-same {
         margin-bottom: 12px;
     }
+
+    .father-all .section-text-img-colors .img-last-frame{
+        background-image: url(https://cdn.shopify.com/s/files/1/0740/4139/3426/files/sharktank_img_1.png?v=1681015219);
+        height: 380px;
+    }
+    
     
 
 }
