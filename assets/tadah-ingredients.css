@@ -94,6 +94,14 @@
 }
 
 
+
+@media (max-width:1288px) {
+    .father-all .title-flavor {
+        font-size: 18px;
+    }
+}
+
+
 /**********************************/
 
 @media (max-width:1235px) {
@@ -103,10 +111,6 @@
 
     .father-all .button-flavor {
         max-width: 200px;
-    }
-
-    .father-all .title-flavor {
-        font-size: 18px;
     }
     /**********************************/
 
