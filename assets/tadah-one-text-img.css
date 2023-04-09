@@ -69,3 +69,7 @@
 .text-rosa {
     background-color: #E12843;
 }
+
+.img-last-frame {
+    width: inherit;
+}
