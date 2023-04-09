@@ -73,3 +73,13 @@
 .img-last-frame {
     width: inherit;
 }
+
+.img-last-frame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color-yellow, .color-brown{
+    flex-direction: row-reverse;
+}
