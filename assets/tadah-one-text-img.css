@@ -47,7 +47,11 @@
 }
 
 .color-yellow {
-    background: #F7D633;
+    background-color: #F7D633;
+}
+
+.text-orange{
+    background: #F47D34;
 }
 
 .father-all  .section-text-img-colors {
