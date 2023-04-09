@@ -93,6 +93,12 @@
     display: flex;
 }
 
+.father-all .container-img-same-last {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 @media (max-width:1106px) {
     .container-text-same {
         padding: 0 25px;
