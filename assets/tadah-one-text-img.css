@@ -43,3 +43,33 @@
 .father-all .autor-last-frame {
     margin-top: 14px;
 }
+
+.father-all .color-blue {
+    background: #72CEE8;
+}
+
+.father-all .color-yellow{
+    background: #F7D633;
+}
+
+.father-all .text-orange {
+    background: #F47D34;
+
+}
+
+.father-all .container-backgroung {
+    background: #E12843;
+}
+
+.father-all .img-last-frame {
+    background-image: url(https://cdn.shopify.com/s/files/1/0747/9558/1749/files/Badge.png?v=1681050717);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.father-all .last-frame {
+    background-image: url(https://cdn.shopify.com/s/files/1/0747/9558/1749/files/Badge.png?v=1681050717);
+    background-repeat: no-repeat;
+
+}
+
