@@ -43,6 +43,9 @@
     background: #F7D633;
     border-radius: 10px;
     margin-bottom: 57px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .text-button {
