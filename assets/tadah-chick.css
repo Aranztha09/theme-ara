@@ -44,14 +44,14 @@
     line-height: 35px;
     text-align: center;
     margin-bottom: 30px;
-}
 
-  .swiper {
+}
+ .sliderComment{
     width: 100%;
     height: 100%;
   }
 
-  .swiper-slide {
+  .sliderComment .swiper-slide {
     text-align: center;
     font-size: 18px;
     display: flex;
@@ -60,20 +60,20 @@
   }
 
 
-  .swiper-slide {
+   .sliderComment .swiper-slide {
     width: 40%;
     color: rgba(255, 255, 255, 0.345);
   }
 
-  .swiper-slide img {
+  .sliderComment .swiper-slide img {
     opacity: 0.6;
   }
 
-  .swiper-slide-active {
+  .sliderComment .swiper-slide-active {
     color: rgb(255, 255, 255);
   }
 
-  .swiper-slide-active img {
+  .sliderComment .swiper-slide-active img {
     opacity: 1;
   }
 
