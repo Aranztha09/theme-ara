@@ -32,6 +32,12 @@
 
 .coment-text {
     margin-bottom: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
 }
 
 .autor {
@@ -75,4 +81,31 @@
   }
 
 
+
+
 /**********************************/
+
+@media (max-width:649px) {
+
+  /**/
+
+  .title-chick {
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+   /**********************************/
+
+}
+
+@media (max-width:428px) {
+
+    
+  /**/
+
+  .title-chick {
+    margin-bottom: 47px;
+}
+  /**********************************/
+
+}
