@@ -164,6 +164,14 @@
         font-size: 15px;
         line-height: 26px;
     }
+
+    .info-same {
+        padding: 0 23px;
+    }
+
+    .title-same {
+        margin-bottom: 12px;
+    }
     
 
 }
