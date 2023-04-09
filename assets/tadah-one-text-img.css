@@ -139,6 +139,7 @@
 
     .father-all .boy {
         display: block;
+        width: 100%;
     }
     
 }
