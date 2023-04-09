@@ -33,6 +33,10 @@
 
     "tadah-one-text-img" : {
       "type": "tadah-one-text-img"
+    },
+
+    "tadah-last-section" : {
+      "type": "tadah-last-section"
     }
 
 
@@ -45,6 +49,7 @@
     "tadah-tasty",
     "tadah-variaty",
     "tadah-chick",
-    "tadah-one-text-img"
+    "tadah-one-text-img",
+    "tadah-last-section"
   ]
 }
