@@ -9,13 +9,17 @@
     width: 50%;
 }
 
+.father-all .img-same {
+    width: 100%;
+    object-fit: cover;
+}
 
 .container-text-same{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 0 138px;
+    padding: 200px 138px;
 }
 
 .father-all .text-rosa{
