@@ -108,3 +108,13 @@
 .tortillas-last {
     margin-top: -175px;
 }
+
+.father-tortilla-mobile {
+    display: none;
+}
+
+@media (max-width:1022px){
+    .father-tortilla-mobile {
+        display: flex;
+    }
+}
