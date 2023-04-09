@@ -119,9 +119,6 @@
 
     .father-all .container-img-same, .container-text-same {
         width: 100%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
     }
 
 }
