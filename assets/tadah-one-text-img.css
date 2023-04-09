@@ -119,3 +119,10 @@
         line-height: 21px;
     }
 }
+
+
+@media (max-width:733px){
+    .section-text-img-colors {
+        display: block;
+    }
+}
