@@ -85,3 +85,7 @@
 .color-yellow{
     flex-direction: row-reverse;
 }
+
+.img-last-frame{
+    padding: 134px 0;
+}
