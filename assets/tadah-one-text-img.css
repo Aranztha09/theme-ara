@@ -104,3 +104,10 @@
         padding: 0 38px;
     }
 }
+
+@media (max-width:954px) {
+    .img-last-frame {
+        padding: 100px 0;
+    }
+}
+
