@@ -113,3 +113,9 @@
 }
 
 
+@media (max-width:853px){
+    .info-same {
+        font-size: 14px;
+        line-height: 21px;
+    }
+}
