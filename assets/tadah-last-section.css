@@ -121,4 +121,8 @@
     .father-tortilla-mobile {
         display: flex;
     }
+
+    .container-falafull {
+        display: block;
+    }
 }
