@@ -141,3 +141,30 @@
     
 
 }
+
+@media (max-width:428px){
+    .father-all .section-text-img-colors {
+        display: block;
+    }
+
+    .father-all .container-img-same, .container-text-same {
+        height: 405.65px;
+    }
+
+    .father-all .img-same {
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .title-same {
+        font-size: 25px;
+    }
+
+    .info-same {
+        font-size: 15px;
+        line-height: 26px;
+    }
+    
+
+}
+
