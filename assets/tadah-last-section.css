@@ -138,4 +138,10 @@
     .container-img-tortillas-rigth img , .container-img-tortillas-left img{
         width: 100%;
     }
+
+    .father-tortilla-mobile {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     }
