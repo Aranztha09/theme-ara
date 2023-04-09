@@ -147,5 +147,23 @@
 
     .container-navegation {
         display: block;
+        text-align: center;
+    }
+
+    .option-navegation {
+        margin-right: 0px;
+        margin-bottom: 22.83px;
+    }
+
+    .title-falafull {
+        margin-bottom: 35px;
+    }
+
+    .father-buton {
+        margin-bottom: 35px;
+    }
+
+    .container-social {
+        margin-bottom: 62px;
     }
     }
