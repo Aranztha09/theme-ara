@@ -117,4 +117,8 @@
     .father-tortillas{
         display: none;
     }
+
+    .father-tortilla-mobile {
+        display: flex;
+    }
 }
