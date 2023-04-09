@@ -83,3 +83,22 @@
 .father-all .last-title-same{
     margin-top: 100px;
 }
+
+@media (max-width:751px) {
+    .container-text-same {
+        padding: 0 25px;
+    }
+
+    .father-all .autor-last-frame {
+        margin-bottom: 72px;
+    }
+
+    .father-all .section-text-img-colors {
+        display: block;
+
+    }
+
+    .container-img-same , .container-text-same{
+        width: 100%;
+    }
+}
