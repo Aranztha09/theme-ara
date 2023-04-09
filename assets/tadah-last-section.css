@@ -114,10 +114,6 @@
 }
 
 @media (max-width:1022px){
-    .father-tortilla-mobile {
-        display: flex;
-    }
-
     .father-tortillas{
         display: none;
     }
