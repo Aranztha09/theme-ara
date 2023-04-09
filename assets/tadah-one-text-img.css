@@ -108,4 +108,8 @@
     .container-img-same , .container-text-same{
         width: 100%;
     }
+
+    .container-text-same {
+        height: 700px;
+    }
 }
