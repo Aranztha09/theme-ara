@@ -116,6 +116,8 @@
     visibility: hidden;
 }
 
+
+
 /**********************************/
 
 /* menu movil*/
@@ -349,6 +351,11 @@
     @media (max-width:768px) {
 
         /* Header y hero*/
+
+        .conatiner-car-menu a {
+            display: flex;
+        }
+        
         .father-all .father-header {
             padding: 32.45px 40px 30px 40px;
         }
