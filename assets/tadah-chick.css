@@ -5,14 +5,7 @@
     box-sizing: border-box;
     text-decoration: none;
 }
- /* padre de todas las seccines*/
- 
-.father-all {
-    font-family: 'Montserrat', sans-serif;
-    color: white;
-}
 
- /**********************************/
 
 /*Section chick*/
 .father-all .section-chick {
