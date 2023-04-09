@@ -82,6 +82,6 @@
     align-items: center;
 }
 
-.color-yellow, .color-brown{
+.color-yellow{
     flex-direction: row-reverse;
 }
