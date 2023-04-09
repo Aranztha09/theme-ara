@@ -112,13 +112,4 @@
     }
 }
 
-@media (max-width:798px) {
-    .father-all .section-text-img-colors {
-        display: block;
-    }
 
-    .father-all .container-img-same, .container-text-same {
-        width: 100%;
-    }
-
-}
