@@ -96,6 +96,11 @@
     align-items: center;
 }
 
+.autor-last-frame {
+    text-align: center;
+    margin-top: 15px;
+}
+
 @media (max-width:1106px) {
     .container-text-same {
         padding: 0 25px;
