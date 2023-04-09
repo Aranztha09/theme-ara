@@ -101,6 +101,10 @@
         font-size: 15px;
     }
 
+    .father-all .container-testimonials {
+        padding: 0 23px;
+    }
+
     /**********************************/
 }
 
@@ -110,9 +114,7 @@
     /*Seccion de testimonios*/
 
 
-    .father-all .container-testimonials {
-        padding: 0 23px;
-    }
+    
 
     .father-all .tasty3, .tasty1 {
         display: none;
