@@ -50,6 +50,7 @@
 }
 
 .father-buton {
+    cursor: pointer;
     width: 277.27px;
     height: 50.41px;
     background: #F7D633;
@@ -68,4 +69,8 @@
     line-height: 20px;
     text-align: center;
     color: #2E190F;
+}
+
+.logo-facebook {
+    margin-right: 20px;
 }
