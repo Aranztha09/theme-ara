@@ -128,4 +128,8 @@
     .container-text-same {
         height: 700px;
     }
+
+    .last-frame {
+        width: 100%;
+    }
 }
