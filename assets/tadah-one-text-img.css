@@ -140,6 +140,14 @@
     .father-all .boy {
         display: block;
         width: 100%;
+        height: 100%;
     }
     
+}
+
+
+@media (max-width: 428px) {
+    .container-text-same {
+        height: 428px;
+    }
 }
