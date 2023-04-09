@@ -1,0 +1,23 @@
+
+.father-all .container-img-same {
+    width: 100%;
+    display: flex;
+}
+
+
+.container-img-same , .container-text-same{
+    width: 50%;
+}
+
+
+.container-text-same{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container-img-same img {
+    width: 100%
+}
