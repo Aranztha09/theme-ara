@@ -11,9 +11,13 @@
     width: 100%;
 }
 
-.container-img-same {
+.container-img-same .color-blue {
     background-color: #72CEE8;
     width: 50%;
+}
+
+.container-img-same .text-rosa {
+    background: #E12843;
 }
 
 .container-text-same {
