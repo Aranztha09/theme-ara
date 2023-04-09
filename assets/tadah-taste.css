@@ -60,7 +60,7 @@
 
 }
 
-@media (max-width:400px) {
+@media (max-width:410px) {
 
      /* seccion taste*/
 
@@ -77,3 +77,15 @@
 
 }
 
+@media (max-width:330px) {
+
+    /* seccion taste*/
+
+
+   .father-all .title-taste {
+       margin-top: 20px;
+   }
+
+    /**********************************/
+
+}
