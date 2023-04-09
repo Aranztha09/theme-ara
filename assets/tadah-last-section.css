@@ -12,7 +12,7 @@
 }
 
 .father-tortillas, .content-falafull{
-    width: 33%;
+    width: 33.33%;
 }
 
 .container-img-tortillas-left{
@@ -24,4 +24,10 @@
 .container-img-tortillas-rigth {
     display: flex;
     justify-content: end;
+}
+
+.content-falafull {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
