@@ -92,6 +92,12 @@
 .img-last-frame{
     padding: 134px 0;
 }
+
+.title-same {
+    padding: 0 30px;
+}
+
+
 @media (max-width: 1050px){
     .info-same {
         padding: 0 38px;
