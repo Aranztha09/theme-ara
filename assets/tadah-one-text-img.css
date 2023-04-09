@@ -1,0 +1,12 @@
+.father-all .section-text-img-colors {
+    display: flex;
+    width: 100%;
+}
+
+.father-all .container-img-same, .container-text-same {
+    width: 50%;
+}
+
+.father-all .img-samee{
+    width: 100%;
+}
