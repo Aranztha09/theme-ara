@@ -124,6 +124,10 @@
         width: 50%;
         padding-bottom: 30px;
     }
+
+    .father-all .title-flavor {
+        font-size: 20px;
+    }
     /**********************************/
 
 }
