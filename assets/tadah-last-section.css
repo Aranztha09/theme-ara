@@ -26,6 +26,12 @@
     justify-content: end;
 }
 
+
+.father-title-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .title-falafull {
     font-family: 'Montserrat';
     font-style: normal;
