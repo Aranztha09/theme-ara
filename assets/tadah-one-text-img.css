@@ -84,6 +84,16 @@
     margin-top: 100px;
 }
 
+.father-all .boy {
+    display: none;
+}
+
+.father-all .container-backgroung {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 @media (max-width:1106px) {
     .container-text-same {
