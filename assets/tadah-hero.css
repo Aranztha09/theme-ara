@@ -112,6 +112,10 @@
     margin: 0;
 }
 
+.father-all .line-burger div{
+    visibility: hidden;
+}
+
 /**********************************/
 
 /* menu movil*/
