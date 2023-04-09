@@ -135,7 +135,7 @@
         width: 50%;
     }
 
-    .container-img-tortillas-rigth img{
+    .container-img-tortillas-rigth img , .container-img-tortillas-left img{
         width: 100%;
     }
     }
