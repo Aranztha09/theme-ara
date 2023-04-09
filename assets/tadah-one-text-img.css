@@ -99,6 +99,7 @@
 }
 
 
+
 @media (max-width: 1050px){
     .info-same {
         padding: 0 38px;
@@ -111,3 +112,9 @@
     }
 }
 
+@media (max-width:798px) {
+    .section-text-img-colors {
+        display: block;
+    }
+
+}
