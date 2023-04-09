@@ -15,3 +15,7 @@
     width: 33%;
 }
 
+.container-img-tortillas-left , .container-img-tortillas-rigth{
+    display: flex;
+    justify-content: end;
+}
