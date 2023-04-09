@@ -130,7 +130,7 @@
     }
 
     .father-all .container-title-star {
-        margin-bottom: 35px;
+        margin-bottom: 35px; 
     }
 
     .father-all .info-frame {
@@ -150,6 +150,10 @@
 @media (max-width:400px) {
 
     /*Seccion de testimonios*/
+
+    .container-testimonials {
+        padding: 0 23px;
+    }
 
     .father-all .section-testimonials {
         padding-bottom: 50px;
