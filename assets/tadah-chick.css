@@ -89,18 +89,25 @@
   /**/
 
   .title-chick {
-    padding-top: 50px;
-    margin-bottom: 50px;
+    padding: 50px 10px 0 10px;
+    margin-bottom: 47px;
 }
 
-   /**********************************/
+  .coment-text {
+    margin-bottom: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 35px;
+    text-align: center;
+  }
 
 }
 
 @media (max-width:428px) {
 
-    
-  /**/
+  
 
   .title-chick {
     margin-bottom: 47px;
