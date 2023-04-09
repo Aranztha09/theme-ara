@@ -125,4 +125,8 @@
     .section-text-img-colors {
         display: block;
     }
+
+    .father-all .container-img-same, .container-text-same {
+        width: 100%;
+    }
 }
