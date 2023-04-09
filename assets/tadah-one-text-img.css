@@ -1,9 +1,8 @@
 
-.father-all .container-img-same {
+.father-all .section-text-img-colors {
     width: 100%;
     display: flex;
 }
-
 
 .container-img-same , .container-text-same{
     width: 50%;
