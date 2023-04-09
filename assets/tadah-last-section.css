@@ -77,7 +77,6 @@
 
 .option-navegation {
     font-family: 'Montserrat';
-    font-style: normal;
     font-weight: 700;
     font-size: 18px;
     line-height: 22px;
@@ -91,4 +90,13 @@
 
 .container-navegation {
     margin-bottom: 104px;
+}
+
+.container-copyrigth {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #2E190F;
 }
